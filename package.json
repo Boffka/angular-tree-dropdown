@@ -1,0 +1,19 @@
+{
+  "name": "angular-tree-dropdown",
+  "version": "1.0.0",
+  "description": "Pure [AngularJS](http://www.angularjs.org/) based tree-dropdown directive.",
+  "main": "tree-dropdown/tree-dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boffka/angular-tree-dropdown.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boffka/angular-tree-dropdown/issues"
+  },
+  "homepage": "https://github.com/Boffka/angular-tree-dropdown#readme"
+}
